@@ -1,5 +1,4 @@
 -- Heart Disease Business Analysis
--- PostgreSQL / SQL Server compatible with minor type syntax adjustments
 
 -- 1. Overall outcome
 SELECT heart_disease, COUNT(*) AS patients,
